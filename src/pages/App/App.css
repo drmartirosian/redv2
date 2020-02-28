@@ -1,0 +1,23 @@
+.NavBar {
+    background: url(../../components/NavBar/header.png);
+    width: 100%;
+    height: 28rem;
+    left: 0;
+    top:0;
+    position: fixed;
+}
+.leftpage{
+    margin-top: 300px;
+    margin-bottom: 200px;
+}
+:root{
+    --lightGreen: #299;
+    --darkGreen: #277;
+}
+* {
+    font-family: "Jura", Times, serif !important;
+    font-size: 5rem;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
